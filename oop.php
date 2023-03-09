@@ -6,7 +6,7 @@
         public function mysum(){
                 
             $this->z = $this->x + $this->y;
-    
+            return $this->z;
         }
 
     }
