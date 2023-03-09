@@ -13,4 +13,9 @@
 
 
 
+    $asad = new MyClass();
+    $asad->x = 100;
+    $asad->y = 150;
+    echo $asad->mysum();
+
 ?>
