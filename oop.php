@@ -1,9 +1,9 @@
 <?php
     class MyClass {
 
-        
-    }
+        public
 
+    }
 
 
 
