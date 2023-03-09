@@ -8,15 +8,16 @@
 </head>
 <body>
     
-<Form action="img.php" method="post" enctype="multipart/form-data">
+<form action="img.php" method="post" enctype="multipart/form-data">
+
+        <input type="file" name="upload_img"> <br>
+        <input type="submit" name="submit" >
 
 
-<input type="file" name="uplod_image"> <br>
-<input type="submit" name="submit" >
+
+</form>
 
 
-
-</Form>
 
 </body>
 </html>
