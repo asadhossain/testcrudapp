@@ -4,7 +4,9 @@
         public $x, $y, $z;
 
         public function mysum(){
-            $z = $x + $y;
+                
+            $this->z = $this->x + $this->y;
+    
         }
 
     }
