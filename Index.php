@@ -11,7 +11,7 @@
     <title>Crud App!</title>
   </head>
   <body>
-    <h1>Dynamice Image</h1>
+    <h1>OOP</h1>
 
 
 
