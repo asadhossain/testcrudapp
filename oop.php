@@ -1,7 +1,7 @@
 <?php
     class MyClass {
 
-        public
+        public $x, $y, $z;
 
     }
 
