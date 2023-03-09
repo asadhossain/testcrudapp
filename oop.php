@@ -3,6 +3,10 @@
 
         public $x, $y, $z;
 
+        public function mysum(){
+            
+        }
+
     }
 
 
