@@ -18,11 +18,8 @@
     <title>Display Image</title>
 </head>
 <body>
-    <img src="upload/"<?php if (isset($img_name)) {echo $img_name;} ?> alt="">
 
-
-
-
+    <img src="upload/<?php if (isset($img_name)) {echo $img_name;} ?>" alt="">
 
 
 </body>
